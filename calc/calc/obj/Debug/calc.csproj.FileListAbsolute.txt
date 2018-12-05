@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\Administrator\source\repos\calc\calc\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\source\repos\calc\calc\bin\Debug\nunit.framework.pdb
+C:\Users\Administrator\source\repos\calc\calc\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\source\repos\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\calc\calc\obj\Debug\calc.csproj.CopyComplete
+C:\Users\Administrator\source\repos\calc\calc\obj\Debug\calc.pdb
+C:\Users\Administrator\source\repos\calc\calc\bin\Debug\calc.dll.config
+C:\Users\Administrator\source\repos\calc\calc\bin\Debug\calc.dll
+C:\Users\Administrator\source\repos\calc\calc\obj\Debug\calc.dll
